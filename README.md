@@ -31,6 +31,7 @@ No ".csproj" fica assim:
     <ProjectReference Include="..\PrjConsole\PrjConsole.csproj" />
 </ItemGroup>
 ```
+- Inline data funciona com 70 testes garantido.
 
 ## Refinamento inicial
 - Operações de soma, subtração, multiplicação e divisão;
