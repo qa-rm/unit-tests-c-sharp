@@ -31,6 +31,14 @@ No ".csproj" fica assim:
     <ProjectReference Include="..\PrjConsole\PrjConsole.csproj" />
 </ItemGroup>
 ```
+
+## Refinamento inicial
+- Operações de soma, subtração, multiplicação e divisão;
+- Regras de negócio:
+    - Números inteiros;
+    - 2 parâmetros por operação;
+    - Sempre retornar as últimas 3 operações.
+
 ## Contribuições
 Contribuições tornam automações mais incríveis!! Toda contribuição será **imensamente apreciada**:
 1. Dê um fork no projeto;
