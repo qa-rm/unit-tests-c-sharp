@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjConsole", "PrjConsole\PrjConsole.csproj", "{3C43BD9A-F32F-4A8A-BA80-6AFC98578323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjXUnitTests", "PrjXUnitTests\PrjXUnitTests.csproj", "{5550B48E-E129-4480-86B0-59EC43ACF9C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C43BD9A-F32F-4A8A-BA80-6AFC98578323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C43BD9A-F32F-4A8A-BA80-6AFC98578323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C43BD9A-F32F-4A8A-BA80-6AFC98578323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C43BD9A-F32F-4A8A-BA80-6AFC98578323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5550B48E-E129-4480-86B0-59EC43ACF9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5550B48E-E129-4480-86B0-59EC43ACF9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5550B48E-E129-4480-86B0-59EC43ACF9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5550B48E-E129-4480-86B0-59EC43ACF9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
